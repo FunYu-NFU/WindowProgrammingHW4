@@ -1,0 +1,14 @@
+*.user
+.qtcreator/
+.qtc_clangd/
+build/
+build-*/
+debug/
+release/
+.qmake.stash
+Makefile*
+ui_*.h
+moc_*.cpp
+*.o
+*.obj
+*.exe
